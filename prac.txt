@@ -1,1 +1,2 @@
 Redo the exercise in the assignment
+Making a change and commit it
